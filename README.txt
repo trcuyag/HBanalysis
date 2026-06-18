@@ -85,4 +85,9 @@ Highlights: Interactive graph with zoom/pan and ability to highlight a specific 
 - Protein–DNA/RNA: Locate specificity‑determining contacts.  
 - Intra‑protein dynamics: Detect long‑range communication between functional domains.
 
+[Figure 1](HB-image1.png)
+
+[Figure 2](HB-image2.png)
+
+[Figure 3](HB-image3.png)
 
